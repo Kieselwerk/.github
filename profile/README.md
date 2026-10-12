@@ -4,9 +4,7 @@ Kieselwerk baut Webseiten, kleine Apps und KI-Lösungen für Selbstständige und
 
 ### Projekte
 
-| | |
-|---|---|
-| **[Mixsmith](https://github.com/Kieselwerk/Mixsmith)** | Mischen und Mastern nach dem Vorbild von Referenzsongs, mit Mischpult, A/B-Vorschau und lokaler KI-Stem-Trennung. Windows, Linux, macOS. Freie Software unter der GPLv3. [Download auf itch.io](https://kieselwerk.itch.io/mixsmith) |
+**[Mixsmith](https://github.com/Kieselwerk/Mixsmith)** · Mischen und Mastern nach dem Vorbild von Referenzsongs, mit Mischpult, A/B-Vorschau und lokaler KI-Stem-Trennung. Windows, Linux, macOS. Freie Software unter der GPLv3. [Download auf itch.io](https://kieselwerk.itch.io/mixsmith)
 
 ### Kontakt
 
